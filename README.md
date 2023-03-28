@@ -1,7 +1,8 @@
 # Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+I have developed this project with ReactJs.  
+User can add, modify, and delete card in the website.
+# Website View
+![Website](WebsiteFront.png)
 ## Available Scripts
 
 In the project directory, you can run:

@@ -1,6 +1,7 @@
 # Getting Started with Create React App
-I have developed this project with ReactJs.  
-User can add, modify, and delete card in the website.
+I have developed this project with ReactJs. User can add, modify, and delete card in the website. Users are also able to see the history of the videos/cards added in website. I have hosted the site on the Netlify.
+# Website Link
+Website : https://akash-convin-assignment.netlify.app/
 # Website View
 ![Website](WebsiteFront.png)
 ## Available Scripts
